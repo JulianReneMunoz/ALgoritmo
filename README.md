@@ -19,4 +19,4 @@ En este caso con el ejemplo de prueba serían: (12,0), (5,7), (16,-4) y el valor
 
 - Como segunda opción se puede en un archivo plano(.txt) crear una lista de números separados por comas que el programa lee para determinar según el valor objetivo cuales cumplen con la condición, es decir parejas de números enteros que sumen un valor igual al valor objetivo.  
 Para ello se debe ejecutar el archivo con el nombre de "encontrar_pares_archivo_texto.py". Hay que tener en cuenta que existe un archivo con el nombre de "numeros_prueba.txt", el cual contiene la lista de números enteros que son leídos y del cual se extraen las parejas de números.
-- Tambien se probo con  1000 numeros  en un archivo  de texto  con el nombre de  "numeros_prueba1000.txt"
+- Tambien se probo con  973 numeros  en un archivo  de texto  con el nombre de  "numeros_prueba1000.txt"
